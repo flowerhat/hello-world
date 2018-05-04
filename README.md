@@ -1,2 +1,6 @@
 # hello-world
-This is a training program
+
+2018-05-04
+
+Create a training program
+
